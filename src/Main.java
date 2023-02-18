@@ -20,7 +20,7 @@ public class Main {
 
             System.out.println("key=" + entry.getKey() + ", grade=" + entry.getValue().getGrade());
         }
-        System.out.println("-----------------------------------------------------");
+        System.out.println("-------------Increase Grade 10%: ----------------------------------------");
 
         student1.increaseGrade(students);
 
