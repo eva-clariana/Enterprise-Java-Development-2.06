@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         Student student1 = new Student("Eva", 10);
-        Student student2 = new Student("Toni", 70);
+        Student student2 = new Student("Toni", 75);
         Student student3 = new Student("Laura", 20);
         Student student4 = new Student("Axel", 50);
 
